@@ -100,3 +100,5 @@ for table in config['tables']:
 
 job.commit()
 job.commit()
+job.commit()
+
